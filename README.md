@@ -7,13 +7,13 @@ Penetration is currently being handled via the DeMarre's Formula that is $P_{new
 
 Where:
 * **P** = Unknown penetration depth,
-* **\(P_{ref}\)** = Known penetration depth of the reference projectile,
+* **$P_{ref}$** = Known penetration depth of the reference projectile,
 * **V** = Striking velocity of the unknown projectile,
-* **\(V_{ref}\)** = Striking velocity of the reference projectile,
+* **$V_{ref}$** = Striking velocity of the reference projectile,
 * **D** = Diameter (caliber) of the unknown projectile,
-* **\(D_{ref}\)** = Diameter of the reference projectile,
+* **$D_{ref}$** = Diameter of the reference projectile,
 * **M** = Mass of the unknown projectile,
-* **\(M_{ref}\)** = Mass of the reference projectile
+* **$M_{ref}$** = Mass of the reference projectile
 
 ```console
 Just Some Debugging
@@ -29,12 +29,12 @@ This however is only for the simple ballistic calculations of standard conventio
 More complicated penetration and complex armor dynamics will be from a simplified Alekseevskii-Tate equation. This equation: $\frac12\rho_{p}\left(V-u\right)^2+Y_{p}=\frac12\rho_{t}u^2+R_{t}$
 
 Where:
-* **\(\rho _{p}\)** = Density of the penetrator (the "dart"),
+* **$\rho _{p}$** = Density of the penetrator (the "dart"),
 * **V** = Impact velocity of the round,
 * **u** = Penetration velocity (the rate at which the dart burrows into the armor),
-* **\(\rho _{t}\)** = Density of the target armor,
-* **\(Y_{p}\)** = Yield strength (material hardness) of the dart,
-* **\(R_{t}\)** = Target resistance to penetration
+* **$\rho _{t}$** = Density of the target armor,
+* **$Y_{p}$** = Yield strength (material hardness) of the dart,
+* **$R_{t}$** = Target resistance to penetration
 
 # And overpressure/HE filler?
 I have that set up such that the shell after penetration creates a sphere proportional to the TNT equivalent to cause damage to crew members and modules alike
