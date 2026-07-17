@@ -3,10 +3,7 @@
 All the things you see here is strictly privatized code. This is purely just a showcase of design ideas and explaining different concepts created by me for the improvement of the game
 
 ## How is penetration handled?
-Penetration is currently being handled via the DeMarre's Formula that is 
-$$
-P_{new}=P_{ref}*\left(\frac{V_{new}}{V_{ref}}\right)^{\alpha}*\left(\frac{M_{new}}{M_{ref}}\right)^{\beta}*\left(\frac{D_{ref}}{D_{new}}\right)^{\gamma} 
-$$
+Penetration is currently being handled via the DeMarre's Formula that is $P_{new}=P_{ref}\cdot\left(\frac{V_{new}}{V_{ref}}\right)^{\alpha}\cdot\left(\frac{M_{new}}{M_{ref}}\right)^{\beta}\cdot\left(\frac{D_{ref}}{D_{new}}\right)^{\gamma}$
 
 Where:
 * **P** = Unknown penetration depth,
@@ -29,10 +26,7 @@ M61 failed to penetrate the Panther UFP at an impact angle of 55 degrees
 
 This however is only for the simple ballistic calculations of standard conventional shells.
 
-More complicated penetration and complex armor dynamics will be from a simplified Alekseevskii-Tate equation. This equation: 
-$$ 
-\frac12\rho_{p}\left(V-u\right)^2+Y_{p}=\frac12\rho_{t}u^2+R_{t}
-$$
+More complicated penetration and complex armor dynamics will be from a simplified Alekseevskii-Tate equation. This equation: $\frac12\rho_{p}\left(V-u\right)^2+Y_{p}=\frac12\rho_{t}u^2+R_{t}$
 
 Where:
 * **\(\rho _{p}\)** = Density of the penetrator (the "dart"),
@@ -74,7 +68,7 @@ I am a gamer first and a developer second. I firmly believe that many modern liv
 * **One-Time Base Game:** A single upfront cost funds the development of the extensive single-player campaigns, with the multiplayer framework fully included.
 * **Stop-Killing Games:** As a supporter of the movement, the ability to use Peer-to-Peer sessions will always exist, with absolutely zero plans to cut the game off. *You bought it, you keep it*
 * **No Nonsense:** Just a complete game.
-*    **Anti-FOMO Battle Passes:** Post-launch content is drip-fed through seasonal passes, but **they never expire.**
-*    Fair Progression:** During an active season, progression is accelerated (1 match = 1 level). After the season ends, the pass remains permanently available in the archive to grind at a standard rate (2 matches =       1 level).
-*    Rolling Rewards:** Completing any pass automatically grants you a free voucher to unlock any previously released pass from the archive.
-*    Time-Saving Catch-Up:** There are no loot boxes, pay-to-win mechanics, or predatory RNG drops. If you have a busy schedule and simply don't have the time to grind, you have the option to purchase pass levels directly to get the cosmetics you want.
+  *    **Anti-FOMO Battle Passes:** Post-launch content is drip-fed through seasonal passes, but **they never expire.**
+  *    Fair Progression:** During an active season, progression is accelerated (1 match = 1 level). After the season ends, the pass remains permanently available in the archive to grind at a standard rate (2 matches =       1 level).
+  *    Rolling Rewards:** Completing any pass automatically grants you a free voucher to unlock any previously released pass from the archive.
+  *    Time-Saving Catch-Up:** There are no loot boxes, pay-to-win mechanics, or predatory RNG drops. If you have a busy schedule and simply don't have the time to grind, you have the option to purchase pass levels directly to get the cosmetics you want.
