@@ -69,6 +69,6 @@ I am a gamer first and a developer second. I firmly believe that many modern liv
 * **Stop-Killing Games:** As a supporter of the movement, the ability to use Peer-to-Peer sessions will always exist, with absolutely zero plans to cut the game off. *You bought it, you keep it*
 * **No Nonsense:** Just a complete game.
   *    **Anti-FOMO Battle Passes:** Post-launch content is drip-fed through seasonal passes, but **they never expire.**
-  *    Fair Progression:** During an active season, progression is accelerated (1 match = 1 level). After the season ends, the pass remains permanently available in the archive to grind at a standard rate (2 matches =       1 level).
-  *    Rolling Rewards:** Completing any pass automatically grants you a free voucher to unlock any previously released pass from the archive.
-  *    Time-Saving Catch-Up:** There are no loot boxes, pay-to-win mechanics, or predatory RNG drops. If you have a busy schedule and simply don't have the time to grind, you have the option to purchase pass levels directly to get the cosmetics you want.
+  *    **Fair Progression:** During an active season, progression is accelerated (1 match = 1 level). After the season ends, the pass remains permanently available in the archive to grind at a standard rate (2 matches =       1 level).
+  *    **Rolling Rewards:** Completing any pass automatically grants you a free voucher to unlock any previously released pass from the archive.
+  *    **Time-Saving Catch-Up:** There are no loot boxes, pay-to-win mechanics, or predatory RNG drops. If you have a busy schedule and simply don't have the time to grind, you have the option to purchase pass levels directly to get the cosmetics you want.
