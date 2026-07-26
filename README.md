@@ -41,7 +41,7 @@ I have that set up such that the shell after penetration creates a sphere propor
 
 ## How is suspension and tank movement handled?
 
-![Suspension_demo}(assets/OutGunnedSuspension)
+![Suspension_demo}(assets/OutGunnedSuspension.gif)
 
 Using raycasts allows the game to maintain a life-like suspension resulting in bounciness and stiffness of springs. Further more engine horsepower, transmission and gear ratios are all being used. Automatic and manual gear shifting are also being used to further improve the tank's fluidity of motion.
 
