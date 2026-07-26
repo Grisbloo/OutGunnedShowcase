@@ -40,6 +40,9 @@ Where:
 I have that set up such that the shell after penetration creates a sphere proportional to the TNT equivalent to cause damage to crew members and modules alike
 
 ## How is suspension and tank movement handled?
+
+![Suspension_demo}(assets/OutGunnedSuspension)
+
 Using raycasts allows the game to maintain a life-like suspension resulting in bounciness and stiffness of springs. Further more engine horsepower, transmission and gear ratios are all being used. Automatic and manual gear shifting are also being used to further improve the tank's fluidity of motion.
 
 ## How is gun handling and ballisitics handled?
